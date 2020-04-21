@@ -1,11 +1,13 @@
-# Online course repository
+## Online course repository
 
 <p align="center">
 Web application samples from Udemy course:<br>
-JSP, Servlets and JDBC for Beginners: Build a Database App<br>
+<strong>JSP, Servlets and JDBC for Beginners: Build a Database App</strong><br>
 Created by Chad Darby
 </p>
-What you'll learn:
+
+### What you'll learn:
+
 * Build a fully functioning JSP and Servlets web application from scratch
 
 * Set up your JSP/Servlet development environment with Tomcat and Eclipse
