@@ -31,3 +31,11 @@ Created by Chad Darby
 * Add database support with JDBC: query, insert, update and delete
 
 * Build a complete database web app with JDBC
+
+
+### Pre-requisites:
+Development envoirement setup: 
+ * JDK installed. (i.e Java 1.8)
+ * Java server. (i.e. Tomcat 9.0)
+ * Text editor or IDE. (i.e Eclipse)
+
